@@ -26,6 +26,8 @@ $ npm install bible-male-names
 >
 > Since there are over 2000+ names it could take a while
 
+Names from [biblegateway.com](https://www.biblegateway.com/resources/all-men-bible/Alphabetical-Order-All-Men)
+
 # Usage
 
 ```js
