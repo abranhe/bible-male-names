@@ -68,6 +68,7 @@ $ bible-male-names --help
 
 		Options
 			--all   Get all names
+			--who-was  Search on Google for the name
 ```
 
 # Team
