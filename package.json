@@ -1,6 +1,6 @@
 {
   "name": "bible-male-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "📖 Get male names from the Bible 👕",
   "main": "names.js",
   "scripts": {
