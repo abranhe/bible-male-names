@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a href="https://www.npmjs.com/package/permutated"><img src="https://cdn.abraham.gq/projects/bible-male-names/abraham.png" width="30%" height="30%"></a>
+	<a href="https://www.npmjs.com/package/bible-male-names"><img src="https://cdn.abraham.gq/projects/bible-male-names/abraham.png" width="30%" height="30%"></a>
 	<br>
 	<br>
 	<br>
@@ -49,7 +49,7 @@ Type: `function`
 
 Type: `array`
 
-Over [2000+](https://github.com/abranhe/bible-male-names/blob/master/bible-male-names.json) bible male names.
+Over [2000+](https://github.com/abranhe/bible-male-names/blob/master/bible-male-names.json) male names from The Bible.
 
 # CLI
 
